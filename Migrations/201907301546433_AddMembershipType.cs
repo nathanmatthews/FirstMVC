@@ -32,3 +32,4 @@ namespace VidlyV2.Migrations
         }
     }
 }
+sy
